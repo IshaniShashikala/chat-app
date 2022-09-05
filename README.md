@@ -1,6 +1,6 @@
 # chat-app
 
-
+This is Nodejs project which is a real-time chat app with a client-side companion
 
 ## Tech Stack
 
