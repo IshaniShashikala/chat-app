@@ -1,6 +1,6 @@
 # chat-app
 
-This is Nodejs project which is a real-time chat app with a client-side companion
+This is a Nodejs project which is a real-time web application for a chat app with a client-side companion using Socket.io
 
 ## Tech Stack
 
