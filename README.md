@@ -1,6 +1,10 @@
 # chat-app
 
-This is a Nodejs project which is a real-time web application for a chat app with a client-side companion using Socket.io
+This is a Nodejs project which is a real-time web application for a chat app with a client-side companion using Socket.io which is deployed in https://ishani-chat-app.herokuapp.com/
+
+## Screenshots
+
+![App Screenshot](/documentation_img/readme_image.png?raw=true "Optional Title")
 
 ## Tech Stack
 
