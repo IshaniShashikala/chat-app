@@ -4,6 +4,7 @@ This is a Nodejs project which is a real-time web application for a chat app wit
 
 ## Screenshots
 
+![App Screenshot](/documentation_img/joinpage.png?raw=true "Optional Title")
 ![App Screenshot](/documentation_img/readme_image.png?raw=true "Optional Title")
 
 ## Tech Stack
